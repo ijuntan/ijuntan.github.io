@@ -1,1 +1,1 @@
-[index.html]
+[react](/public/index.html)

@@ -1,1 +1,1 @@
-[react](/public/index.html)
+[Link Text]({% post_url index_html %})

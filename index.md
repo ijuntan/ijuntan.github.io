@@ -1,1 +1,4 @@
-[Link Text]({% post_url index_html %})
+---
+title: My page
+public: index
+---
